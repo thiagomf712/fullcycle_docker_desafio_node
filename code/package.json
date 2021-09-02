@@ -1,0 +1,11 @@
+{
+  "name": "desafio_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thiago Ferreira <thiagomf712@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
